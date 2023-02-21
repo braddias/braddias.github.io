@@ -11511,3 +11511,7 @@ html {
 .no-underline {
   text-decoration: none;
 }
+
+#about {
+  background: linear-gradient(50deg, var(--bs-primary) 10%, #0c1bcd 100%);
+}
